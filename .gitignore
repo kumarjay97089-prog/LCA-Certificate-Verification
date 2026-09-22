@@ -1,0 +1,6 @@
+certificate.db
+certificate_backup.db
+database_export.sql
+*.pdf
+*.png
+__pycache__/
